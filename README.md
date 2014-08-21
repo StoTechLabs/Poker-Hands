@@ -33,4 +33,4 @@ Rembember to enter `quit` to exit `irb` and return to your command line when fin
 
 Enjoy!
 
-Copyright © 2014
+License: MIT
